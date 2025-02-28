@@ -1,6 +1,6 @@
 # mediCo
 
-Presenting mediCo for your every need related to medical area.
+Presenting mediCo for your every medical need.
 
 Features:
 
